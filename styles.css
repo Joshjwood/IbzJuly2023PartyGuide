@@ -96,7 +96,8 @@ body{margin-top:20px;}
     margin-bottom: 30px;
 }
 .event-schedule-area-two ul.custom-tab li {
-    margin-right: 70px;
+    margin-right: auto;
+    margin-left: auto;
     position: relative;
 }
 .event-schedule-area-two ul.custom-tab li a {
@@ -142,7 +143,7 @@ body{margin-top:20px;}
     font-size: 20px;
 }
 .event-schedule-area-two .tab-content .table thead tr th {
-    padding: 20px;
+    /* padding: 20px; */
     border: 0;
 }
 .event-schedule-area-two .tab-content .table tbody {
@@ -153,7 +154,7 @@ body{margin-top:20px;}
 }
 .event-schedule-area-two .tab-content .table tbody tr th {
     border: 0;
-    padding: 30px 20px;
+    /* padding: 30px 20px; */
     vertical-align: middle;
 }
 .event-schedule-area-two .tab-content .table tbody tr th .event-date {
