@@ -242,7 +242,7 @@ body{margin-top:20px;}
 /* The hero image */
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.white-ibiza.com/wp-content/uploads/2020/03/white-ibiza-clubs-hi-ibiza-2020-01.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://www.white-ibiza.com/wp-content/uploads/2020/03/white-ibiza-clubs-hi-ibiza-2020-01.jpg");
 
   /* Set a specific height */
   height: 50%;
